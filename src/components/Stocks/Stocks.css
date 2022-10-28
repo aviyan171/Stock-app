@@ -1,0 +1,18 @@
+.delete-button{
+    visibility: hidden;
+}
+
+.table-row:hover .delete-button{
+    visibility: visible;
+}
+
+.img-stock {
+  
+}
+
+.img-container{
+    display: flex;
+    justify-content: center;
+    
+}
+
